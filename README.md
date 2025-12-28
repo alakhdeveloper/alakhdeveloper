@@ -1,5 +1,81 @@
 # 💫 About Me:
-Currently working on:<br>Advanced Magento 2 performance optimization (handling 100k+ products & orders), Data Migration, Complex integration, Knockoutjs etc<br>AWS-based scalable eCommerce architectures (EC2, ECS, S3, CloudFront, RDS)<br>GenAI-powered features for eCommerce<br>(AI search, product recommendations, chat assistants)<br>Migrating legacy Magento systems → cloud-native architectures<br><br><br><br>Looking to collaborate on:<br>Magento 2 + AWS + GenAI projects<br>AI-driven eCommerce automation (catalog enrichment, customer support bots)<br>Python-based microservices for eCommerce platforms<br>Open-source Magento extensions with AI & cloud capabilities<br><br>Looking for help with:<br>Production-grade GenAI architectures (LLMs, vector databases, RAG)<br>Best practices for MLOps & AI deployment on AWS<br>Scaling AI workloads cost-effectively in real-world eCommerce<br><br><br>Currently learning:<br>Python for AI & backend services<br>AWS DevOps (ECS, CI/CD pipelines, monitoring & scaling)<br>Generative AI & LLM systems (RAG, embeddings, prompt engineering)<br>AI integration patterns for Adobe Commerce / Magento<br><br><br><br>Ask me about:<br>Magento 2 / Adobe Commerce architecture<br>Performance optimization & large data migrations<br>Building high-scale eCommerce systems<br>Integrating AWS + CI/CD with Magento<br>Practical AI use-cases in eCommerce<br><br><br><br>Fun fact:<br>I’ve spent 16+ years optimizing checkout flows, and now I’m teaching AI to do it smarter <br>I believe eCommerce + GenAI will redefine how people shop in the next 5 years
+## 🔭 Currently Working On
+
+- **Advanced Magento 2 engineering**
+  - Checkout & catalog performance optimization
+  - Async processing, indexing & caching strategies
+- Architecting systems handling **100k+ products, orders & customers**
+- **Zero-downtime data migrations**
+  - Catalog, customer & order data at scale
+- **Cloud-native Magento on AWS**
+  - EC2, ECS, S3, CloudFront, RDS
+- **CI/CD pipelines**
+  - Automated build, test, security scans & blue-green deployments
+- **Python-based microservices**
+  - Search, recommendations & automation services
+- **GenAI-powered eCommerce features**
+  - AI search, LLM-driven chat assistants, personalization
+
+---
+
+## 🧠 Architecture & Specialization
+
+- Magento 2 / Adobe Commerce internals
+- AWS-native eCommerce system design
+- Event-driven & microservice architectures
+- CI/CD automation for commerce & AI workloads
+- Production-grade **GenAI systems**
+  - LLMs, embeddings, vector databases, RAG
+- Cost-efficient scaling of AI workloads on AWS
+- MLOps & AI deployment best practices
+
+---
+
+## 👯 Open to Collaborating On
+
+- **Magento 2 + AWS + GenAI** production projects
+- **Cloud migration programs** (legacy Magento → cloud-native)
+- **Open-source Magento extensions**
+  - AI search, recommendations, automation
+- **RAG-based GenAI platforms** for eCommerce
+- **CI/CD modernization** for large commerce systems
+
+---
+
+## 🌱 Currently Learning & Deepening
+
+- Generative AI & **LLM system design**
+- Vector databases & retrieval strategies
+- Production AI deployment on AWS
+- Advanced **CI/CD & DevOps patterns**
+- Python for AI & backend services
+
+---
+
+## 💬 Ask Me About
+
+- Magento 2 / Adobe Commerce architecture
+- Performance optimization & large data migrations
+- AWS-based scalable eCommerce platforms
+- CI/CD pipelines for Magento & microservices
+- Practical, production-ready AI use-cases in eCommerce
+
+---
+
+## 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight)
+
+---
+
+## ⚡ Fun Facts & Beliefs
+
+- I’ve spent **16+ years optimizing checkout flows** —  
+  now I design systems where **AI continuously improves them**
+- I strongly believe **CI/CD + Cloud + GenAI** will redefine how people shop in the next **5 years**
+
+---
 
 
 ## 🌐 Socials:
