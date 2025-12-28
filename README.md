@@ -4,11 +4,11 @@
 - **Advanced Magento 2 engineering**
   - Checkout & catalog performance optimization
   - Async processing, indexing & caching strategies
-- Architecting systems handling **100k+ products, orders & customers**
-- **Zero-downtime data migrations**
-  - Catalog, customer & order data at scale
+  - Architecting systems handling **100k+ products, orders & customers**
+  - **Zero-downtime data migrations**
+    - Catalog, customer & order data at scale
 - **Cloud-native Magento on AWS**
-  - EC2, ECS, S3, CloudFront, RDS
+  - EC2, ECS, S3, CloudFront, RDS, SQS, Rout53, AWSAPI's etc
 - **CI/CD pipelines**
   - Automated build, test, security scans & blue-green deployments
 - **Python-based microservices**
@@ -59,13 +59,6 @@
 - AWS-based scalable eCommerce platforms
 - CI/CD pipelines for Magento & microservices
 - Practical, production-ready AI use-cases in eCommerce
-
----
-
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alakhdeveloper&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alakhdeveloper&layout=compact&theme=tokyonight)
 
 ---
 
